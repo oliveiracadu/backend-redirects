@@ -4,34 +4,34 @@ Esse documento visa coletar feedbacks sobre o teste de desenvolvimento. Desde o 
 ## Antes de Iniciar o Teste
 
 1 - Fale sobre suas primeiras impressões do Teste:
-> Resposta
+> Bem elaboraso, ótimo desafio
 
 2 - Tempo estimado para o teste:
-> Resposta
+> 6 horas
 
 3 - Qual parte você no momento considera mais difícil?
-> Resposta
+> redirecionamento
 
 4 - Qual parte você no momento considera que levará mais tempo?
-> Resposta
+> logs
 
 5 - Por onde você pretende começar?
-> Resposta
+> migrations > models > repositories > services > controllers > routes
 
 
 ## Após o Teste
 
 1 - O que você achou do teste?
-> Resposta
+> ótimo desafio
 
 2 - Levou mais ou menos tempo do que você esperava?
-> Resposta
+> sim
 
 3 - Teve imprevistos? Quais?
-> Resposta
+> queda de luz devido a chuvas
 
 4 - Existem pontos que você gostaria de ter melhorado?
-> Resposta
+> sim, logs
 
 5 - Quais falhas você encontrou na estrutura do projeto?
-> Resposta
+> n/d
