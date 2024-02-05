@@ -1,4 +1,4 @@
-# Como rodar o projeto
+Como Rodar o projeto
 1 - com docker
     - 1.1 - montar a estrutura docker-compose up --build
     - 1.2 - copiar o arquivo .env.example .env
