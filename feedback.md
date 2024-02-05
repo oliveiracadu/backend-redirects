@@ -31,7 +31,7 @@ Esse documento visa coletar feedbacks sobre o teste de desenvolvimento. Desde o 
 > queda de luz devido a chuvas
 
 4 - Existem pontos que você gostaria de ter melhorado?
-> sim, logs
+> sim, stats e testes
 
 5 - Quais falhas você encontrou na estrutura do projeto?
 > n/d
